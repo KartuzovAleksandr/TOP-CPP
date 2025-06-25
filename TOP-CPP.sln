@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EvenOdd", "EvenOdd\EvenOdd.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Fibonachi", "Fibonachi\Fibonachi.vcxproj", "{38A8417A-4ABD-4177-8900-90211542DD16}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Files", "Files\Files.vcxproj", "{88971F76-0405-4B8A-B85E-23A4C2E4E035}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{38A8417A-4ABD-4177-8900-90211542DD16}.Release|x64.Build.0 = Release|x64
 		{38A8417A-4ABD-4177-8900-90211542DD16}.Release|x86.ActiveCfg = Release|Win32
 		{38A8417A-4ABD-4177-8900-90211542DD16}.Release|x86.Build.0 = Release|Win32
+		{88971F76-0405-4B8A-B85E-23A4C2E4E035}.Debug|x64.ActiveCfg = Debug|x64
+		{88971F76-0405-4B8A-B85E-23A4C2E4E035}.Debug|x64.Build.0 = Debug|x64
+		{88971F76-0405-4B8A-B85E-23A4C2E4E035}.Debug|x86.ActiveCfg = Debug|Win32
+		{88971F76-0405-4B8A-B85E-23A4C2E4E035}.Debug|x86.Build.0 = Debug|Win32
+		{88971F76-0405-4B8A-B85E-23A4C2E4E035}.Release|x64.ActiveCfg = Release|x64
+		{88971F76-0405-4B8A-B85E-23A4C2E4E035}.Release|x64.Build.0 = Release|x64
+		{88971F76-0405-4B8A-B85E-23A4C2E4E035}.Release|x86.ActiveCfg = Release|Win32
+		{88971F76-0405-4B8A-B85E-23A4C2E4E035}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
